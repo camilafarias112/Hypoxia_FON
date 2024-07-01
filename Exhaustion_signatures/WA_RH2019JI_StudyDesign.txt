@@ -1,0 +1,13 @@
+Sample	Group_p	Group
+Naive_1	Naive	Naive
+Naive_2	Naive	Naive
+Naive_3	Naive	Naive
+CD101-Tim3-_1	CD101-Tim3-	Stem_like
+CD101-Tim3-_2	CD101-Tim3-	Stem_like
+CD101-Tim3-_3	CD101-Tim3-	Stem_like
+CD101-Tim3+_1	CD101-Tim3+	Transitory
+CD101-Tim3+_2	CD101-Tim3+	Transitory
+CD101-Tim3+_3	CD101-Tim3+	Transitory
+CD101+Tim3+_1	CD101+Tim3+	Exhausted
+CD101+Tim3+_2	CD101+Tim3+	Exhausted
+CD101+Tim3+_3	CD101+Tim3+	Exhausted
